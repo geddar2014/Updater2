@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ChampStageId": 239928,
+    "StageTitle": "США: WNBA. Регулярный чемпионат",
+    "ChampSeasonId": 115680,
+    "CategoryId": 200,
+    "ChampId": 963,
+    "SeasonId": 155,
+    "IsNet": false,
+    "NeedChessTable": false,
+    "Games": [
+      {
+        "Id": 26600747,
+        "Team1Id": 84632,
+        "Team2Id": 84646,
+        "DateStart": 1528675200,
+        "Score1": 0,
+        "Score2": 0,
+        "State": 2,
+        "Team1": "Лос-Анджелес Спакс (жен)",
+        "TeamCountry1": 200,
+        "Team2": "Чикаго Скай (жен)",
+        "TeamCountry2": 200,
+        "Periods": [],
+        "XBetTeamId2": 11699,
+        "XBetTeamId1": 11625,
+        "Winner": 0,
+        "DopInfo": null
+      },
+      {
+        "Id": 26600783,
+        "Team1Id": 84644,
+        "Team2Id": 84638,
+        "DateStart": 1528678800,
+        "Score1": 0,
+        "Score2": 0,
+        "State": 1,
+        "Team1": "Финикс (жен)",
+        "TeamCountry1": 200,
+        "Team2": "Сан-Антонио Старс (жен)",
+        "TeamCountry2": 200,
+        "Periods": [
+          { "Score1": 26, "Score2": 18 }, { "Score1": 24, "Score2": 19 }, { "Score1": 9, "Score2": 11 },
+          { "Score1": 13, "Score2": 18 }
+        ],
+        "XBetTeamId2": 13821,
+        "XBetTeamId1": 230871,
+        "Winner": 0,
+        "DopInfo": null
+      },
+      {
+        "Id": 26600796,
+        "Team1Id": 84640,
+        "Team2Id": 84620,
+        "DateStart": 1528682400,
+        "Score1": 0,
+        "Score2": 0,
+        "State": 1,
+        "Team1": "Сиэттл (жен)",
+        "TeamCountry1": 200,
+        "Team2": "Атланта Дрим (жен)",
+        "TeamCountry2": 200,
+        "Periods": [
+          { "Score1": 11, "Score2": 15 }, { "Score1": 20, "Score2": 24 }, { "Score1": 12, "Score2": 15 },
+          { "Score1": 21, "Score2": 13 }
+        ],
+        "XBetTeamId2": 12247,
+        "XBetTeamId1": 133833,
+        "Winner": 0,
+        "DopInfo": null
+      }
+    ]
+  },
+  {
+    "ChampStageId": 241171,
+    "StageTitle": "Пуэрто-Рико: Чемпионат Пуэрто-Рико",
+    "ChampSeasonId": 116048,
+    "CategoryId": 236,
+    "ChampId": 7220,
+    "SeasonId": 155,
+    "IsNet": false,
+    "NeedChessTable": false,
+    "Games": [
+      {
+        "Id": 26643998,
+        "Team1Id": 215081,
+        "Team2Id": 78368,
+        "DateStart": 1528682400,
+        "Score1": 0,
+        "Score2": 0,
+        "State": 1,
+        "Team1": "Квебрадильяс",
+        "TeamCountry1": 236,
+        "Team2": "Леонес де Понсе",
+        "TeamCountry2": 236,
+        "Periods": [
+          { "Score1": 21, "Score2": 27 }, { "Score1": 23, "Score2": 16 }, { "Score1": 21, "Score2": 15 },
+          { "Score1": 24, "Score2": 25 }
+        ],
+        "XBetTeamId2": 55277,
+        "XBetTeamId1": 11631,
+        "Winner": 0,
+        "DopInfo": null
+      }
+    ]
+  }
+]
